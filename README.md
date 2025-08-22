@@ -118,3 +118,22 @@ For open source projects, say how it is licensed.
 
 ## Project status
 If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+
+
+## Video Links
+Parts 1 and 2 are explaining the routes in Postman and the code in GitHub. It was created here by mistake.
+
+
+part 1: https://www.loom.com/share/1b65ec647cba40c2b98580ee9dd38d20 
+
+
+part 2: https://www.loom.com/share/36406c7ee9c543b48f038c8258574cdb
+
+
+This part 3 contains just the explanation about the moved code from GitHub into here in GitLab.
+
+
+part 3: https://www.loom.com/share/3c73761d5ccb413d937f875a67e8ab20
+
+
+
