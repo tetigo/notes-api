@@ -1,6 +1,5 @@
 const express = require("express");
-import * as controller from "../controllers/noteController.js";
-
+const controller = require("../controllers/noteController");
 const router = express.Router();
 
 router.get("/notes", controller.getAllNotes);
